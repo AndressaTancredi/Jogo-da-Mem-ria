@@ -2,6 +2,8 @@
 
 Welcome to the Memory Game featuring influential women in the tech industry. This fun and educational game is designed to celebrate the achievements of remarkable women who have made significant contributions to the world of technology. Test your memory and learn about these inspiring figures while having a great time!
 
+![memoryGame](https://github.com/AndressaTancredi/Jogo-da-Memoria/assets/48730376/edcc230c-234f-460d-8bff-b6d882db2c49)
+
 ## Technical Details
 
 This project is built using HTML, CSS, and JavaScript, making it a purely web-based memory game. It challenges your memory skills by presenting a grid of cards, each featuring a different tech icon. As you flip cards, your goal is to find matching pairs. The game is not only entertaining but also serves as a testament to the incredible achievements of women who have paved the way in the tech world. Enjoy and have fun while exploring the accomplishments of these remarkable individuals!
