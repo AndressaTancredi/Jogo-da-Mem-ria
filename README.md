@@ -21,3 +21,5 @@ This project is built using HTML, CSS, and JavaScript, making it a purely web-ba
 - **Marissa Mayer:** Marissa Mayer's influential career includes leadership roles at Google and Yahoo. She has been a driving force behind significant developments in web search and email technologies.
 
 Learn more about these incredible women and their contributions as you enjoy the Memory Game!
+
+Made with ❤ by Andressa Tancredi.
